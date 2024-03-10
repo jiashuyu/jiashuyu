@@ -1,20 +1,18 @@
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I’m Shuyu Jia.</h1>
 <p>Welcome to my page! 
 </br>
-</br>- Hi, I’m Shuyu Jia</br>
-</br>- I’m interested in Java programming and any interesting applications or projects.</br>
-</br>- I’m currently learning Java, C, C++, Python</br>
+</br>- I’m interested in Java, Python, Golang, JavaScript, C++ programming and any interesting applications or projects.</br>
 </br>- I’m looking to collaborate with people who have the same interests.</br>
-</br>- 📫 How to reach me: jiashuyugenius@gmail.com
+</br>- 📫 How to reach me: shuyuj@uchicago.edu / jiashuyugenius@gmail.com
 </p>
 </br>
 
 <h1>💻 Tech Stack: </h1>
 <h3>Things I code with</h3>
 <p>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/>
