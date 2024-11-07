@@ -5,7 +5,7 @@
 </br>
 </br>I'm currently a full-stack Software Development Engineer at Prospect Equities, and previously a Software Development Engineer at Standard Chartered. I'm currently a M.S. in Computer Science student at University of Chicago. I have strong programming and analytical skills with development experience in backend, frontend, and full stack development with a passion for technology and innovation.</br>
 </br>I’m interested in Java, Python, Golang, JavaScript, C++ programming and any interesting applications or projects, and I’m looking to collaborate with people who have the same interests.</br>
-</br>📫 How to reach me: shuyuj@uchicago.edu / jiashuyugenius@gmail.com</br>
+</br>📫 How to reach me: shuyuj@uchicago.edu (school) / jiashuyugenius@gmail.com (personal) / justin@prospectequities.com (work)</br>
 </p>
 </br>
 
